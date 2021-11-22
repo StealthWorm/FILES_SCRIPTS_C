@@ -1,0 +1,8 @@
+Percorre esse vertices:  2
+  Percorre esse vertices:  1
+  Percorre esse vertices:  1
+  Percorre esse vertices:  2
+  Percorre esse vertices:  2
+  Percorre esse vertices:  4
+  Percorre esse vertices:  6
+  
